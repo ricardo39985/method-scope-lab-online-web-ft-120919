@@ -1,4 +1,5 @@
 def catch_phrase(phrase)
-  phrase = "It's-a me, Mario!\n"
-  puts phrase
+  puts "It's-a me, Mario!\n"
 end
+
+catch_phrase
